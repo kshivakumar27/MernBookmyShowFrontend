@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MernBookmyShowFrontend/static/css/main.ddb1bab6.chunk.css",
+    "main.js": "/MernBookmyShowFrontend/static/js/main.66d174f3.chunk.js",
+    "main.js.map": "/MernBookmyShowFrontend/static/js/main.66d174f3.chunk.js.map",
+    "runtime-main.js": "/MernBookmyShowFrontend/static/js/runtime-main.edef4bea.js",
+    "runtime-main.js.map": "/MernBookmyShowFrontend/static/js/runtime-main.edef4bea.js.map",
+    "static/css/2.023f94b0.chunk.css": "/MernBookmyShowFrontend/static/css/2.023f94b0.chunk.css",
+    "static/js/2.89edf529.chunk.js": "/MernBookmyShowFrontend/static/js/2.89edf529.chunk.js",
+    "static/js/2.89edf529.chunk.js.map": "/MernBookmyShowFrontend/static/js/2.89edf529.chunk.js.map",
+    "static/js/3.11fa995f.chunk.js": "/MernBookmyShowFrontend/static/js/3.11fa995f.chunk.js",
+    "static/js/3.11fa995f.chunk.js.map": "/MernBookmyShowFrontend/static/js/3.11fa995f.chunk.js.map",
+    "index.html": "/MernBookmyShowFrontend/index.html",
+    "static/css/2.023f94b0.chunk.css.map": "/MernBookmyShowFrontend/static/css/2.023f94b0.chunk.css.map",
+    "static/css/main.ddb1bab6.chunk.css.map": "/MernBookmyShowFrontend/static/css/main.ddb1bab6.chunk.css.map",
+    "static/js/2.89edf529.chunk.js.LICENSE.txt": "/MernBookmyShowFrontend/static/js/2.89edf529.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edef4bea.js",
+    "static/css/2.023f94b0.chunk.css",
+    "static/js/2.89edf529.chunk.js",
+    "static/css/main.ddb1bab6.chunk.css",
+    "static/js/main.66d174f3.chunk.js"
+  ]
+}
